@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub BIH</h1>
 <h3 align="center">A passionate data scientist with expertise in machine and deep learning from France</h3>
 
-- 🔭 I’m currently working at **Group SII**
+- 🔭 I’m currently working at **Group SII, France**
 
 - 🌱 I’m currently learning **MLOPS techniques**
 
