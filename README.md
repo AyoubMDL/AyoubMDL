@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **BrainChip, France**
 
-- 🌱 I’m currently learning **MLOPS techniques**
+- 🌱 I’m currently learning **GPU Progamming**
 
 - 💬 Ask me about **Pytorch, Transformers, LLMs**
 
